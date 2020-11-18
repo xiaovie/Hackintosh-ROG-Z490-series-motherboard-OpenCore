@@ -1,4 +1,4 @@
-# Hackintosh-i7-10700k-ROG-STRIX-Z490-A-GAMING-RX-590
+# ROG Z490 series motherboard opencore project
 
 - Support motherboard list: Z490-A GAMING, Z490-F, Z490-H, Z490-G, Z490-I, Z490-E, M12H.
 - Support CPU 10th, direct installation by AMD graphics card users, support Intel i219-v network card, AX201 wireless network card Bluetooth
