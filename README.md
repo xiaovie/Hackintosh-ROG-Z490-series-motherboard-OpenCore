@@ -35,13 +35,13 @@ EFI on releases，When using EFI, please read all instructions
 # Not working so far
 nothing so far :)
 
-# Test videos and articles
+# Guide videos and support
 
-https://discord.gg/RkEcV5ATJQ
 
-Screenshot and test video check here https://zhuanlan.zhihu.com/p/144808480
+If you need help, you can enter the channel I created
 
-,8K video rendering test video https://www.bilibili.com/video/BV1wp4y1v7Ko
+- Video guide：https://www.youtube.com/watch?v=wCs_IgFlYds
+- discord channel：https://discord.gg/RkEcV5ATJQ
 
 #Screenshot
 ![pro tools](https://github.com/xiaovie/-Hackintosh-i7-10700k-ROG-STRIX-Z490-A-GAMING-RX-590.zip/blob/master/Pro%20tools.jpg)
