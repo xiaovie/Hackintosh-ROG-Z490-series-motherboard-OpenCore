@@ -3,9 +3,9 @@
 - Support motherboard list: Z490-A GAMING, Z490-F, Z490-H, Z490-G, Z490-I, Z490-E, M12H.
 - Support CPU 10th, direct installation by AMD graphics card users, support Intel i219-v network card, AX201 wireless network card Bluetooth
 
-SMBIOS=iMac20,1
+SMBIOS=iMac20,x
 
-OpenCore 0.6.3
+OpenCore 0.6.4
 
 EFI on releases，When using EFI, please read all instructions
 
