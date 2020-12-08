@@ -15,7 +15,7 @@ EFI on releases，When using EFI, please read all instructions
 	- Audio: Realtek ALC1220
 	- 2.5Gbit Ethernet: Intel I225-V
 - RAM: 32GB Kingston 2400Mhz C15
-- GPU: AMD Radeon RX590
+- GPU: AMD Radeon RX590 & GTX1070
 
 ## Benchmarks
 
