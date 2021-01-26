@@ -1,6 +1,6 @@
 # ROG Z490 series motherboard opencore project
 
-- Support motherboard list: Z490-A GAMING, Z490-F, Z490-H, Z490-G, Z490-I, Z490-E, M12H.
+- Support motherboard list: Z490-A GAMING, Z490-F, Z490-H, Z490-G, Z490-I, Z490-E, M12H，TUF gaming Z490-plus，Prime Z490-A，Prime z490-P
 - Support CPU 10th, direct installation by AMD graphics card users, support Intel i219-v network card, AX201 wireless network card Bluetooth
 - Support Catalina 10.15.5-10.15.7|Big sur 11.0-11.1
 
