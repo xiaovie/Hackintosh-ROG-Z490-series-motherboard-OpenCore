@@ -6,7 +6,7 @@
 
 SMBIOS=iMac20,x
 
-OpenCore 0.6.6
+OpenCore 0.6.7
 
 EFI on releases，When using EFI, please read all instructions
 
