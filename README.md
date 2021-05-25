@@ -2,15 +2,17 @@
 
 - Support motherboard list: Z490-A GAMING, Z490-F, Z490-H, Z490-G, Z490-I, Z490-E, M12H，TUF gaming Z490-plus，Prime Z490-A，Prime z490-P
 - Support CPU 10th, direct installation by AMD graphics card users, support Intel i219-v network card, AX201 wireless network card Bluetooth
-- Support Catalina 10.15.5 - 10.15.7 | Big sur 11.0 - 11.2.1
+- Support Catalina 10.15.5 - 10.15.7 | Big sur 11.0 - 11.4
+- Support RealtekRTL8111，RealtekRTL8125B，i219-v，i225-v
+- Support WIFI/BT AX201
 
 SMBIOS=iMac20,x
 
-OpenCore 0.6.7
+OpenCore 0.6.9
 
 EFI on releases，When using EFI, please read all instructions
 
-# Hardware
+# TEST Hardware
 - Intel i7-10700k
 - ROG STRIX Z490-A GAMING:
 	- Audio: Realtek ALC1220
