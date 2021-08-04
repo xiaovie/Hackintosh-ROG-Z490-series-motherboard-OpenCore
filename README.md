@@ -4,10 +4,11 @@
 - Support CPU 10th, direct installation by AMD graphics card users
 - Support RealtekRTL8111，RealtekRTL8125B，i219-v，i225-v
 - Support WIFI/BT AX201
+- Support 6800/6800XT/6900XT
 
 SMBIOS=iMac20,x
 
-OpenCore 0.7.1
+OpenCore 0.7.2
 
 EFI on releases，When using EFI, please read all instructions
 
