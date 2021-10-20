@@ -44,7 +44,7 @@ nothing so far :)
 If you need help, you can enter the channel I created
 
 - Video guide：https://www.youtube.com/watch?v=wCs_IgFlYds
-- discord channel：https://discord.gg/RkEcV5ATJQ
+- discord channel：https://discord.gg/dXcqPDhM3G
 
 #Screenshot
 ![pro tools](https://github.com/xiaovie/-Hackintosh-i7-10700k-ROG-STRIX-Z490-A-GAMING-RX-590.zip/blob/master/Pro%20tools.jpg)
