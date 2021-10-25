@@ -8,7 +8,8 @@
 
 SMBIOS=iMac20,x
 
-OpenCore 0.7.2
+OpenCore 0.7.4
+support：macOS Monterey,macOS Big Sur,macOS Catalina
 
 EFI on releases，When using EFI, please read all instructions
 
